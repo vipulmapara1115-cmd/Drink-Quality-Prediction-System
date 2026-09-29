@@ -1,0 +1,216 @@
+[2026-09-28 18:17:18,810: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-28 18:17:18,810: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-28 18:17:18,813: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-28 18:17:18,814: INFO: common: created directory at: artifacts]
+[2026-09-28 18:17:18,814: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-09-28 18:17:18,814: INFO: 2366278714: File already exists of size: ~ 23 KB]
+[2026-09-28 18:27:27,734: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-28 18:27:27,746: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-28 18:27:27,748: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-28 18:27:27,749: INFO: common: created directory at: artifacts]
+[2026-09-28 18:27:27,750: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-09-28 18:27:28,589: INFO: 2366278714: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23321
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "3cfb0b0af479560a1d9816dac5d215984d2d8499264e8b75917cf76a54cb4a08"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1D12:3F4C55:4554:9699:6ABAF7E0
+x-github-edge-region: iad
+Accept-Ranges: bytes
+Date: Mon, 28 Sep 2026 23:27:29 GMT
+Via: 1.1 varnish
+X-Served-By: cache-dfw-kdfw8210124-DFW
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1790638049.787695,VS0,VE264
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 39265118d69ce82117e54faf03a81d40e8fcbb96
+Expires: Mon, 28 Sep 2026 23:32:29 GMT
+Source-Age: 0
+
+]
+[2026-09-29 10:28:08,771: INFO: test: Hi Seema]
+[2026-09-29 10:28:18,354: INFO: test: Hi Seema]
+[2026-09-29 10:30:01,544: INFO: test: Hi dfdff]
+[2026-09-29 10:56:51,319: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-29 10:56:51,320: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-29 10:56:51,322: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-29 10:56:51,323: INFO: common: created directory at: artifacts]
+[2026-09-29 10:56:51,324: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-09-29 10:56:51,325: INFO: 2366278714: File already exists of size: ~ 23 KB]
+[2026-09-29 10:58:43,759: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-29 10:58:43,760: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-29 10:58:43,760: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-29 10:58:43,760: INFO: common: created directory at: artifacts]
+[2026-09-29 10:58:43,769: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-09-29 10:58:44,418: INFO: 2366278714: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23321
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "3cfb0b0af479560a1d9816dac5d215984d2d8499264e8b75917cf76a54cb4a08"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: F324:7AF88:F864B:149F91:6ABBE034
+x-github-edge-region: iad
+Accept-Ranges: bytes
+Date: Tue, 29 Sep 2026 15:58:44 GMT
+Via: 1.1 varnish
+X-Served-By: cache-dfw-kdfw8210079-DFW
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1790697524.136870,VS0,VE147
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 9e1f7615e296d8b5ddf569df37f52f47e0ebaa23
+Expires: Tue, 29 Sep 2026 16:03:44 GMT
+Source-Age: 0
+
+]
+[2026-09-29 11:27:38,903: INFO: test: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-09-29 11:27:38,903: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-29 11:27:38,903: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-29 11:27:38,903: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-29 11:27:38,903: INFO: common: created directory at: artifacts]
+[2026-09-29 11:27:38,903: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-09-29 11:27:39,474: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23321
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "3cfb0b0af479560a1d9816dac5d215984d2d8499264e8b75917cf76a54cb4a08"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: F324:7AF88:F864B:149F91:6ABBE034
+x-github-edge-region: iad
+Accept-Ranges: bytes
+Date: Tue, 29 Sep 2026 16:27:39 GMT
+Via: 1.1 varnish
+X-Served-By: cache-dfw-kdfw8210071-DFW
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1790699259.270769,VS0,VE77
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 1d9606a4db08f6e9cc9e9aea474f12296430db25
+Expires: Tue, 29 Sep 2026 16:32:39 GMT
+Source-Age: 0
+
+]
+[2026-09-29 11:27:39,478: INFO: test: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-09-29 12:16:04,659: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-09-29 12:16:04,659: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-29 12:16:04,659: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-29 12:16:04,659: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-29 12:16:04,659: INFO: common: created directory at: artifacts]
+[2026-09-29 12:16:04,659: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-09-29 12:16:05,287: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23321
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "3cfb0b0af479560a1d9816dac5d215984d2d8499264e8b75917cf76a54cb4a08"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: F324:7AF88:F864B:149F91:6ABBE034
+x-github-edge-region: iad
+Accept-Ranges: bytes
+Date: Tue, 29 Sep 2026 17:16:05 GMT
+Via: 1.1 varnish
+X-Served-By: cache-dfw-kdfw8210120-DFW
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1790702165.090364,VS0,VE78
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 2684995b9b59bcab1e9758806cb70b2141f48f47
+Expires: Tue, 29 Sep 2026 17:21:05 GMT
+Source-Age: 0
+
+]
+[2026-09-29 12:16:05,287: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-09-29 12:16:05,287: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2026-09-29 12:16:05,304: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-29 12:16:05,305: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-29 12:16:05,307: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-29 12:16:05,308: INFO: common: created directory at: artifacts]
+[2026-09-29 12:16:05,308: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-29 12:16:05,316: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2026-09-29 12:16:05,316: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2026-09-29 12:16:05,318: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-29 12:16:05,318: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-29 12:16:05,320: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-29 12:16:05,321: INFO: common: created directory at: artifacts]
+[2026-09-29 12:16:05,322: INFO: common: created directory at: artifacts/data_transformation]
+[2026-09-29 12:16:05,340: INFO: data_transformation: Splited data into training and test sets]
+[2026-09-29 12:16:05,340: INFO: data_transformation: (1199, 12)]
+[2026-09-29 12:16:05,340: INFO: data_transformation: (400, 12)]
+[2026-09-29 12:16:05,341: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2026-09-29 12:16:05,341: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2026-09-29 12:16:05,343: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-29 12:16:05,343: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-29 12:16:05,344: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-29 12:16:05,345: INFO: common: created directory at: artifacts]
+[2026-09-29 12:16:05,345: INFO: common: created directory at: artifacts/model_trainer]
+[2026-09-29 12:16:05,428: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2026-09-29 12:16:05,428: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2026-09-29 12:16:05,428: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-29 12:16:05,428: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-29 12:16:05,428: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-29 12:16:05,428: INFO: common: created directory at: artifacts]
+[2026-09-29 12:16:05,428: INFO: common: created directory at: artifacts/model_evaluation]
+[2026-09-29 12:16:05,443: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2026-09-29 12:16:05,443: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2026-09-29 12:33:58,755: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.25:8080]
+[2026-09-29 12:33:58,755: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2026-09-29 12:33:58,759: INFO: _internal:  * Restarting with stat]
+[2026-09-29 12:33:59,894: WARNING: _internal:  * Debugger is active!]
+[2026-09-29 12:33:59,897: INFO: _internal:  * Debugger PIN: 670-364-766]
+[2026-09-29 12:34:50,846: INFO: _internal: 127.0.0.1 - - [29/Sep/2026 12:34:50] "GET / HTTP/1.1" 200 -]
+[2026-09-29 12:34:51,040: INFO: _internal: 127.0.0.1 - - [29/Sep/2026 12:34:51] "GET /static/css/styles.css HTTP/1.1" 200 -]
+[2026-09-29 12:34:51,086: INFO: _internal: 127.0.0.1 - - [29/Sep/2026 12:34:51] "GET /static/css2/nunito-font.css HTTP/1.1" 200 -]
+[2026-09-29 12:34:51,086: INFO: _internal: 127.0.0.1 - - [29/Sep/2026 12:34:51] "GET /static/js/scripts.js HTTP/1.1" 200 -]
+[2026-09-29 12:34:51,086: INFO: _internal: 127.0.0.1 - - [29/Sep/2026 12:34:51] "GET /static/css2/style.css HTTP/1.1" 200 -]
+[2026-09-29 12:34:51,331: INFO: _internal: 127.0.0.1 - - [29/Sep/2026 12:34:51] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2026-09-29 12:34:51,334: INFO: _internal: 127.0.0.1 - - [29/Sep/2026 12:34:51] "GET /static/assets/img/form-v9.jpg HTTP/1.1" 200 -]
+[2026-09-29 12:34:51,373: INFO: _internal: 127.0.0.1 - - [29/Sep/2026 12:34:51] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2026-09-29 12:34:51,562: INFO: _internal: 127.0.0.1 - - [29/Sep/2026 12:34:51] "GET /static/assets/favicon.ico HTTP/1.1" 200 -]
+[2026-09-29 12:35:59,870: INFO: _internal: 127.0.0.1 - - [29/Sep/2026 12:35:59] "POST /predict HTTP/1.1" 200 -]
+[2026-09-29 12:35:59,909: INFO: _internal: 127.0.0.1 - - [29/Sep/2026 12:35:59] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2026-09-29 12:35:59,921: INFO: _internal: 127.0.0.1 - - [29/Sep/2026 12:35:59] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2026-09-29 12:35:59,962: INFO: _internal: 127.0.0.1 - - [29/Sep/2026 12:35:59] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -]
